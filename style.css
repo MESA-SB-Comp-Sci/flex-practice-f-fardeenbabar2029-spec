@@ -5,16 +5,7 @@
 .challenge-1 {
   background-color: grey;
   width: 100vw;
-  /* add code below */
-
-
-}
-
-
-/* =============================================
-   CHALLENGE 2
-   goal: make the boxes stack in a column
-   ============================================= */
+  display: flex;
 .challenge-2 {
   background-color: grey;
   width: 100vw;
